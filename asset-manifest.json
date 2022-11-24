@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Blogofolio/static/css/main.aea256c5.css",
-    "main.js": "/Blogofolio/static/js/main.c1dc164a.js",
-    "index.html": "/Blogofolio/index.html",
-    "main.aea256c5.css.map": "/Blogofolio/static/css/main.aea256c5.css.map",
-    "main.c1dc164a.js.map": "/Blogofolio/static/js/main.c1dc164a.js.map"
+    "main.css": "/Todo-React-Firebase-Backend/static/css/main.aea256c5.css",
+    "main.js": "/Todo-React-Firebase-Backend/static/js/main.37732ca8.js",
+    "index.html": "/Todo-React-Firebase-Backend/index.html",
+    "main.aea256c5.css.map": "/Todo-React-Firebase-Backend/static/css/main.aea256c5.css.map",
+    "main.37732ca8.js.map": "/Todo-React-Firebase-Backend/static/js/main.37732ca8.js.map"
   },
   "entrypoints": [
     "static/css/main.aea256c5.css",
-    "static/js/main.c1dc164a.js"
+    "static/js/main.37732ca8.js"
   ]
 }
