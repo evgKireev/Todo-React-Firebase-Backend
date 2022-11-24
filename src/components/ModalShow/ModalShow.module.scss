@@ -15,7 +15,7 @@
   background-color: #374151;
   border-radius: 5px;
   width: 486px;
-  height: 180px;
+  min-height: 180px;
   position: absolute;
   left: 50%;
   top: 50%;
@@ -35,7 +35,7 @@
   color: #14141f;
   transition: all 0.5s;
   &:hover {
-    transform: scale(1.1);
+    transform: scale(1.2);
     transition: all 0.5s;
   }
 }
@@ -55,7 +55,6 @@
   background-color: #1f2937;
   color: white;
   outline: none;
-  height: 20px;
   text-align: start;
 }
 
@@ -69,7 +68,6 @@
   background-color: #1f2937;
   color: white;
   outline: none;
-  height: 20px;
   text-align: start;
 }
 
