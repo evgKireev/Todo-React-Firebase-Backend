@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Todo-React-Firebase-Backend/static/css/main.aea256c5.css",
+    "main.css": "/Todo-React-Firebase-Backend/static/css/main.e1cd3f5b.css",
     "main.js": "/Todo-React-Firebase-Backend/static/js/main.37732ca8.js",
     "index.html": "/Todo-React-Firebase-Backend/index.html",
-    "main.aea256c5.css.map": "/Todo-React-Firebase-Backend/static/css/main.aea256c5.css.map",
+    "main.e1cd3f5b.css.map": "/Todo-React-Firebase-Backend/static/css/main.e1cd3f5b.css.map",
     "main.37732ca8.js.map": "/Todo-React-Firebase-Backend/static/js/main.37732ca8.js.map"
   },
   "entrypoints": [
-    "static/css/main.aea256c5.css",
+    "static/css/main.e1cd3f5b.css",
     "static/js/main.37732ca8.js"
   ]
 }
