@@ -1,8 +1,8 @@
 {
-  "name": "02-react-start",
+  "name": "to-do",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://evgKireev.github.io/Blogofolio",
+  "homepage": "https://evgKireev.github.io/Todo-React-Firebase-Backend",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.0",
     "@testing-library/jest-dom": "^5.16.4",
